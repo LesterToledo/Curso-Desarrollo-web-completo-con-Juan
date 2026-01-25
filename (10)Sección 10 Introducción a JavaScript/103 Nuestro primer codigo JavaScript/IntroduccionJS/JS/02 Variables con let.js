@@ -1,6 +1,6 @@
 
 
-// Variables
+// Variables con let
 
 let producto = "Audifonos Gamer"; //Iniciar Variable y Asignarle Valor.
 
