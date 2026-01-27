@@ -3,6 +3,15 @@
 
 // Variables con const
 
+/*
+Const no puede inicializar las Variables sin el valor
+Tampoco se pueden reasignar los valores en const
+*/
+
+// let permite reasignarle y cambiar el valor de las variables
+
+// Por lo general se utiliza mas const
+
 const producto = "Audifonos Gamer"; //Iniciar Variable y Asignarle Valor.
 
 const disponible = true; //Iniciamos la variable pero sin valor.
