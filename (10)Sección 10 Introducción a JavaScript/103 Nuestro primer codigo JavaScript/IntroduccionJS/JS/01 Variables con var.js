@@ -1,6 +1,6 @@
 
 
-// Variables
+// Variables con var
 
 var producto = "Audifonos Gamer"; //Iniciar Variable y Asignarle Valor.
 
