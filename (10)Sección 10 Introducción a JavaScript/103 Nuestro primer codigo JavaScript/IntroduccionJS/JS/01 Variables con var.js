@@ -1,25 +1,25 @@
 
 
-// Variables con var
+// // Variables con var
 
-var producto = "Audifonos Gamer"; //Iniciar Variable y Asignarle Valor.
+// var producto = "Audifonos Gamer"; //Iniciar Variable y Asignarle Valor.
 
-var disponible; //Iniciamos la variable pero sin valor.
+// var disponible; //Iniciamos la variable pero sin valor.
 
-producto = true; //Reasignando el valor de la variable.
+// producto = true; //Reasignando el valor de la variable.
 
-disponible = true;
+// disponible = true;
 
-var producto1 = "Computadora",
-disponible1 = true,
-categoria = "Computadoras";
+// var producto1 = "Computadora",
+// disponible1 = true,
+// categoria = "Computadoras";
 
-var disponible;
+// var disponible;
 
-console.log(producto);
+// console.log(producto);
 
-// Estilos disponibles
+// // Estilos disponibles
 
-var nombre_producto = "Monitor HD"; // Underscore
-var nombreProducto = "Monitor HD"; // Camelcase *****Este será el mas usado
-var NombreProducto = "Monitor HD"; // PascalCaseA
+// var nombre_producto = "Monitor HD"; // Underscore
+// var nombreProducto = "Monitor HD"; // Camelcase *****Este será el mas usado
+// var NombreProducto = "Monitor HD"; // PascalCaseA
